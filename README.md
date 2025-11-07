@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Eljina Tamang!
 
-<!--
-**Eljinah/Eljinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer & Data Analyst**  
+I turn data into insights and build efficient data pipelines.
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy  
+**Tools:** Excel, Snowflake, Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently
+- Exploring data pipeline automation  
+- Learning more about cloud data platforms  
+
+### 🌐 Connect
+[LinkedIn]-linkedin.com/in/eljina-tamang
+
+
